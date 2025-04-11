@@ -152,7 +152,7 @@ export const BentoGridItem = ({
                   particleColor="#FFFFFF"
                 />
                 <a
-                  href="https://drive.google.com/file/d/154jAik4Q_HciluYtfJZbBDVVgfrQuIoR/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1C_7kcVO8NG9Te6m_7U2s_Km3HPLw6m6b/view?usp=drive_link"
                   target="_blank"
                 >
                   <div className="z-10">

@@ -1,6 +1,6 @@
 export const navItems = [
     { name: "About", link: "#about" },
-    { name: "Resume", link: "https://drive.google.com/file/d/154jAik4Q_HciluYtfJZbBDVVgfrQuIoR/view?usp=drive_link" },
+    { name: "Resume", link: "https://drive.google.com/file/d/1C_7kcVO8NG9Te6m_7U2s_Km3HPLw6m6b/view?usp=drive_link" },
     { name: "Projects", link: "#projects" },
     //{ name: "Testimonials", link: "#testimonials" },
     
@@ -77,16 +77,16 @@ export const navItems = [
       title: "Newsmania Headlines",
       des: "Newsmania is a professional news web app that aggregates and displays infinite news with features like filters, bookmarks, sharing, user profiles, notifications, and news polls.",
       img: "/news-page.png",
-      iconLists: ["/science.png",  "/tail.svg"],
-      link: "https://github.com/jagannath-p-s",
+      iconLists: ["/html.svg","/css.svg", "/js.svg"],
+      link: "https://github.com/DishantDrugkar/NewsMania_Project",
     },
     {
       id: 2,
-      title: "Gym CRM",
-      des: "We made a customized management app for Her Chamber Fitness , Permanagalam , with attendance tracking and reports , membership management and automated notifications , Expense and income management ,  ",
-      img: "chamber.png",
+      title: "AceInt",
+      des: "AceInt is a placement preparation platform offering mock tests, AI-driven interviews, and personalized feedback to help students succeed.  ",
+      img: "aceint.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
-      link: "https://github.com/jagannath-p-s",
+      link: "https://github.com/DishantDrugkar",
       
     },
     {
