@@ -91,11 +91,19 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Regal idustries",
-      des: "Build A static site for a business to enhance his online presence , The site is on top of search results",
-      img: "/regal.png",
-      iconLists: ["/html.svg","/css.svg", "/js.svg"],
-      link: "https://github.com/jagannath-p-s",
+      title: "AI Powered Image Enhancer",
+      des: "An AI-powered tool that enhances and sharpens images to bring out their full potential with stunning clarity and detail.",
+      img: "/image-enhancer.png",
+      iconLists: ["/html.svg","/css.svg", "/js.svg", "/science.png"],
+      link: "https://github.com/DishantDrugkar/AI-Image-Enhancer",
+    },
+    {
+      id: 4,
+      title: "AI Career Counsellor For Tier 2,3 College Students",
+      des: "An AI-powered career counselor designed to guide tier 2 and 3 college students with personalized career advice, skill development, and job opportunities based on their interests and strengths.",
+      img: "/carrer-counsellor.png",
+      iconLists: ["/html.svg","/css.svg", "/js.svg", "/science.png"],
+      link: "",
     }
   ];
   
@@ -170,6 +178,12 @@ export const navItems = [
       id: 1,
       title: "Backend Developer Intern",
       desc: "Building scalable APIs, integrating databases, and implementing security features using Java, Spring Boot, and PostgreSQL.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },{
+      id: 2,
+      title: "Full Stack Developer Intern",
+      desc: "Aspiring Java Full Stack Developer Intern skilled in building dynamic web applications using Java, Spring Boot, React.js, and SQL databases.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     }
