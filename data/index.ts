@@ -185,7 +185,7 @@ export const navItems = [
       title: "Full Stack Developer Intern",
       desc: "Aspiring Java Full Stack Developer Intern skilled in building dynamic web applications using Java, Spring Boot, React.js, and SQL databases.",
       className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
+      thumbnail: "/exp4.svg",
     }
     
   ];
@@ -195,7 +195,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      href: "https://github.com/jagannath-p-s",
+      href: "https://github.com/DishantDrugkar",
     },
     {
       id: 2,
@@ -205,6 +205,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      href: "https://www.linkedin.com/in/jagannath-ps",
+      href: "https://www.linkedin.com/in/dishant-drugkar",
     },
   ];
