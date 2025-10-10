@@ -1,0 +1,6 @@
+/componenents/footer.tsx.  -> email
+/componenents/hero.tsx     -> headline of your name
+/componenents/skills.tsx.  -> change your skills icons
+
+
+/data/index.ts.            ->
